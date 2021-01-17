@@ -5,6 +5,7 @@
     "name": "stack-calculator",
     "slug": "stack-calculator",
     "version": "1.0.0",
+    "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
     ]
